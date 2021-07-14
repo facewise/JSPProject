@@ -1,0 +1,130 @@
+a{
+    text-decoration: none;
+    color:#D5D5D5;
+    text-align:center;
+}
+h2{
+    left:40px;
+    top:25px;
+    margin:0;
+    position:relative;
+}
+
+#top_box{
+    height:100px;
+    position:relative;
+}
+#search_box{
+    width:350px;
+    height:40px;
+    position:relative;
+    background:#D5D5D5;;
+    float:right;
+    bottom:-30px;
+}
+#login_box{
+    position:relative;
+    float:right;
+}
+#search_box input{
+    padding:10px;
+    border:2px #202020;
+    outline:none;
+    float:left;
+    width:300px;
+    font-size:13pt;
+    background:#202020;
+}
+#search_box button{
+    height:100%;
+    border:0px #202020;
+    outline:none;
+    width:50px;
+    font-size:13pt;
+    background:#202020;
+    color:#d5d5d5;
+}
+#movie{
+    height:400px;
+    position:relative;
+}
+#movie_img{
+    width:40%;
+    height:400px;
+    float: left;
+}
+#detail_img{
+    width:260px;
+    top:13px;
+    left:120px;
+    position:relative;
+}
+#movie_detail{
+    width:50%;
+    height:320px;
+    padding-left:30px;
+    float: right;
+    padding-top:50px;
+}
+#streaming{
+    height:250px;
+    position:relative;
+}
+#bottom_box{
+    height:250px;
+    position:relative;
+}
+#bottom_ul{
+    margin:0;
+    padding:40px 15px 0 70px;
+    position:relative;
+}
+ul{
+    margin:0;
+    padding: 40px 15px 0 70px;
+    position:relative;
+}
+ul ul{
+    width:275px;
+    margin:0;
+    padding:0px;
+    float: left;
+    list-style:none;
+
+}
+li{
+    width:220px;
+
+}
+.img_list{
+    width:230px;
+    height:132px;
+}
+.left_bt{
+    left:20px; top:120px;
+    position:absolute;
+    width:0px;
+    height:0px;
+    border-top:20px solid transparent;
+    border-right:15px solid #D5D5D5;
+    border-left:10px solid transparent;
+    border-bottom:20px solid transparent;
+}
+.right_bt{
+    right:25px; top:120px;
+    position:absolute;
+    width:0px;
+    height:0px;
+    border-top:20px solid transparent;
+    border-right:10px solid transparent;
+    border-left:15px solid #D5D5D5;
+    border-bottom:20px solid transparent;
+}
+.st_site{
+    width:50px;
+    height:50px;
+}
+.list_box{
+    height:300px;
+    position:relative;
+}
